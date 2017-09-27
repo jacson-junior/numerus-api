@@ -8,7 +8,21 @@
 module.exports = {
 
   attributes: {
-
+    name: {
+      type: 'string'
+    },
+    author: {
+      type: 'string'
+    },
+    authorImage: {
+      type: 'string'
+    },
+    rating: {
+      type: 'string'
+    },
+    context: {
+      type: 'string'
+    }
   }
 };
 
