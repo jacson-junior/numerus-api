@@ -79,7 +79,7 @@ module.exports.connections = {
      url: 'postgres://gkjvhcbsdvxjrv:949de03e41f0f5c7dace2254476635511f470f9b1c41ee110ab144938b3ce23c@ec2-107-22-160-199.compute-1.amazonaws.com:5432/d6kgumnjv039ph',
      pool: false,
      ssl: true,
-     schema: true
+    //  schema: true,
    }
 
 
