@@ -12,8 +12,10 @@ module.exports = {
       type: 'string'
     },
     author: {
-      model: 'User'
+      model: 'User',
+      columnName: 'authorId'
     },
+    authorId: 'INTEGER',
     rating: {
       type: 'string'
     },
